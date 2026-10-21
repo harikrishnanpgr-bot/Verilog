@@ -4,15 +4,25 @@ Verilog codings
 TOPICS
 
 -AND GATE 
+
 -OR GATE
+
 -NOT GATE
+
 -NOR GATE
+
 -NAND GATE
+
 -XOR GATE
+
 -XNOR GATE 
+
 -D FLIP FLOP
+
 -T FLIP FLOP
+
 -2X1 MUX
+
 -2X1 DEMUX
 
 TOOLS:
