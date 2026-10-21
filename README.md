@@ -1,29 +1,26 @@
 # Verilog
 Verilog codings
 
-TOPICS
+TOPICS:
+Combinational Circuits
 
--AND GATE 
+- AND Gate
+- OR Gate
+- NOT Gate
+- NAND Gate
+- NOR Gate
+- XOR Gate
+- XNOR Gate
+- 2:1 Mux
+- 1:2 Demux
 
--OR GATE
+Sequential Circuits
 
--NOT GATE
+- D Flip-Flop
+- T Flip-Flop
+- Up Counter
+- Down Counter
 
--NOR GATE
-
--NAND GATE
-
--XOR GATE
-
--XNOR GATE 
-
--D FLIP FLOP
-
--T FLIP FLOP
-
--2X1 MUX
-
--1x2 DEMUX
 
 TOOLS:
 
